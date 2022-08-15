@@ -1,0 +1,21 @@
+.signUp {
+  background-color: #f91944;
+  padding: 4px 15px;
+  border-radius: 50px;
+  color: white;
+  font-size: 14px;
+}
+.shopping_cart {
+  background-color: #212529;
+  font-size: 2x;
+  color: white;
+  margin-right: 15px;
+}
+.logout_btn {
+  margin-left: 15px;
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 2px 20px;
+}

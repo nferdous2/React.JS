@@ -1,0 +1,62 @@
+.login-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, #1c2bb4, #e739f5);
+}
+
+.my-cart {
+  width: 400px;
+  background: rgb(196, 196, 196);
+  text-align: center;
+  margin: 50px 0;
+  padding: 10px 0;
+  border-radius: 10px;
+  box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+  -webkit-box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+  -moz-box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+}
+
+input {
+  padding: 7px 7px;
+  width: 300px;
+  margin: 5px 0px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+input:focus {
+  background-color: rgb(223, 223, 223);
+}
+
+.login-btn {
+  width: 100px;
+  font-size: 24px;
+  background: linear-gradient(90deg, rgb(139, 16, 16), rgb(16, 16, 121));
+  cursor: pointer;
+  color: white;
+}
+.login-btn:hover {
+  background: rgb(0, 0, 0);
+  color: white;
+}
+
+.online-btn {
+  background-color: #4b79c4;
+  color: white;
+  width: 150px;
+  border: none;
+  padding: 7px 5px;
+  border-radius: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+.google {
+  background-color: #e04a39;
+}
+.github {
+  background-color: #007900;
+}
+.facebook {
+  background-color: #0e4dca;
+}

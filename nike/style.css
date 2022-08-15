@@ -1,0 +1,31 @@
+.picture {
+    box-sizing: border-box;
+    box-shadow: 0 0 15px #cfcdcd;
+    border-radius: 20px;
+     /* width: 327px; */
+    height: 300px;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-top: 8px;
+ /* align-items: center;
+justify-content: center;*/} 
+    .picture img{
+        width: 240px; 
+        /* height: 180px; */ 
+    }
+
+.col {
+    height: 500px;
+    width: 330px;
+}
+.cols{ box-sizing: border-box;
+    box-shadow: 0 0 10px #f7ebeb;
+    margin: 2px 2px;
+}
+.col-3{
+    margin-top: 8%;
+}
+.col-8{
+    margin-top: 8%;
+    margin-left: 85px;
+}
